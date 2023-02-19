@@ -1,13 +1,16 @@
 {
   "main.css": "static/css/main.bd6a2c37.css",
   "main.css.map": "static/css/main.bd6a2c37.css.map",
-  "main.js": "static/js/main.ba6cbccc.js",
-  "main.js.map": "static/js/main.ba6cbccc.js.map",
+  "main.js": "static/js/main.1bb7bb40.js",
+  "main.js.map": "static/js/main.1bb7bb40.js.map",
+  "static\\media\\bhagwathgita.png": "static/media/bhagwathgita.c5376dcb.png",
   "static\\media\\codepen.svg": "static/media/codepen.f06dfb50.svg",
   "static\\media\\facebook.svg": "static/media/facebook.f623a97e.svg",
   "static\\media\\linkedin.svg": "static/media/linkedin.418d4806.svg",
   "static\\media\\mail.svg": "static/media/mail.5b814a27.svg",
+  "static\\media\\mapexpo_website.png": "static/media/mapexpo_website.1cb5bceb.png",
   "static\\media\\medium.svg": "static/media/medium.e5de11d6.svg",
+  "static\\media\\newsify_profolio_image.png": "static/media/newsify_profolio_image.1c4ffb9e.png",
   "static\\media\\quora.svg": "static/media/quora.de1356b5.svg",
   "static\\media\\twitter.svg": "static/media/twitter.fce4a5c9.svg"
 }
